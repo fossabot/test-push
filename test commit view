@@ -1,0 +1,6 @@
+commit 1
+commit 2 being squashed
+commit 3 being squashed
+commit 5 dev change
+commit 6 dev change
+commit 4 master change
